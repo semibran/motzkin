@@ -9,11 +9,15 @@ A small function for calculating [Motzkin numbers](https://en.wikipedia.org/wiki
 > const motzkin = require('motzkin')
 > motzkin(4)
 9
+
+> motzkin(-1)
+NaN
 ```
 
 ## see also
 - [`semibran/delannoy`](https://github.com/semibran/delannoy) - calculate Delannoy numbers
-- [`semibran/fibonacci`](https://github.com/semibran/fibonacci) - calculate Fibonacci numbers
+- [`semibran/narayana`](https://github.com/semibran/narayana) - calculate Narayana numbers
+- [`semibran/schroeder`](https://github.com/semibran/schroeder) - calculate Schröder numbers
 
 ## license
 [MIT](https://opensource.org/licenses/MIT) © [Brandon Semilla](https://git.io/semibran)
