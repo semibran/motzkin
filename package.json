@@ -1,8 +1,8 @@
 {
  "name": "motzkin",
- "version": "0.1.0",
+ "version": "0.1.1",
  "description": "Calculate Motzkin numbers",
- "keywords": ["motzkin", "numbers"],
+ "keywords": ["motzkin", "numbers", "math", "combinatorics"],
  "files": ["index.js"],
  "license": "MIT",
  "author": "Brandon Semilla (https://github.com/semibran)",
