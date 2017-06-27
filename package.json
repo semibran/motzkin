@@ -1,0 +1,13 @@
+{
+ "name": "motzkin",
+ "version": "0.1.0",
+ "description": "Calculate Motzkin numbers",
+ "keywords": ["motzkin", "numbers"],
+ "files": ["index.js"],
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/semibran/motzkin.git"
+ }
+}
